@@ -1,0 +1,45 @@
+.bg-color-lght-blue {
+    background-color: rgb(42,184,172);
+    color: white;
+}
+
+.bg-color-lght-orange {
+    background-color: rgb(255,171,82);
+    color: white;
+}
+
+.bg-color-lght-purple {
+    background-color: rgb(156,85,165);
+    color: white;
+}
+
+.bg-color-lght-yellow {
+    background-color: rgb(255,246,141);
+    color: rgb(44,62,80);
+}
+
+.text-color-dark-blue {
+    color: rgb(44,62,80);
+}
+
+
+.opponent-button {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.or {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+p, h3 {
+    text-align: center;
+}
+
+.dark-blue-btn {
+    border: 1px solid rgb(44,62,80);
+    color: rgb(44,62,80);
+}
