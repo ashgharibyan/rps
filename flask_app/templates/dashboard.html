@@ -12,7 +12,7 @@
     <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
     <script type="text/javascript" charset="utf-8">
         $(document).ready(function(){
-            var socket = io.connect("localhost:5001");
+            var socket = io.connect("http://52.27.151.125/");
 
             socket.on('connect', function(){
                 socket.send("User connected!");
