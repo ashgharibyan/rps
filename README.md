@@ -1,2 +1,4 @@
 # RPS
-ROCK PAPER SCISSORS Game
+## Rock Paper Scissors - Flask Application
+
+This GitHub project is a rock paper scissors game that offers two gameplay modes: playing against the computer or playing against another player. The project also includes a scoreboard that keeps track of user scores and a global chat that allows online players to chat with each other in real-time. The registration and login system is password-protected using bcrypt and personal information fields with validations. The live chat feature is implemented using socket.io, allowing for two-way interactive communication between the browser and server. The player vs player option is available, and users can join and leave arbitrary channels with Socket.io behaviors. The project features a responsive web design using Bootstrap 5, and it uses MySQL and MySQL Workbench tool to manage user data and statistics.
