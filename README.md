@@ -8,8 +8,6 @@ This GitHub project is a rock paper scissors game that offers two gameplay modes
 
 - Decision making: Rock paper scissors is a simple game that can be used to make decisions when there is no clear consensus. For example, two people can play to determine who goes first in another game.
 
-- Improved hand-eye coordination: The quick nature of rock paper scissors can help improve hand-eye coordination and reaction time.
-
 - Socialization: Rock paper scissors can be played with friends or as part of a group, providing an opportunity to socialize and connect with others.
 
 - Stress relief: The game is simple and enjoyable, making it a great way to take a break and relieve stress.
